@@ -4,8 +4,7 @@ A thematic and responsive calculator application that allows users to easily add
 
 ## Link
 
-Try it here: https://mully7773.github.io/Calculator/
-
+Try it here: https://calculator-eight-drab.vercel.app/
 ## Screenshots
 
 ![Screenshot of light-theme on desktop](./images/screenshots/light-theme-desktop.png)
@@ -47,7 +46,3 @@ MVC architecture
 <br>
 Mobile responsiveness
 
-## Questions:
-
-Feel free to contact me at mully7773@gmail.com if you have any questions. <br>
-You can view more of my projects at https://github.com/Mully7773.
